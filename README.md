@@ -3,7 +3,7 @@
 ### Overview
 In this repository, we provide artifacts that demonstrate how to leverage Amazon SageMaker Data Wrangler, Amazon SageMaker Feature Store, and Amazon SageMaker Pipelines alongside AWS Lambda to automate feature transformation. Before we set up the architecture for automating feature transformations, we first explore the historical dataset with Data Wrangler, define the set of transformations we want to apply, and store the features in Amazon SageMaker Feature Store. This is shown below.
 
-- Architecture Diagram Placeholder
+![process-overview.png](https://github.com/aws-samples/amazon-sagemaker-automated-feature-transformation/blob/main/process-overview.png)
 
 ### Dataset
 To demonstrate feature pipeline automation, we use an example of preparing features for a flight delay prediction model. We use flight delay data from the US Department of [Transportation’s Bureau of Transportation Statistics (BTS)](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp), which tracks the on-time performance of domestic US flights.
