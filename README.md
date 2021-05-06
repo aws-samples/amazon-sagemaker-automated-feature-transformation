@@ -24,6 +24,11 @@ For a full walkthrough of automating feature transformation with Amazon SageMake
 
 To follow along, download the Jupyter notebook and python code from this repo. All the instructions are in the blog post and the Jupyter notebook.
 
+### Clean-up 
+
+To avoid any recurring charges, stop any running Data Wrangler and Jupyter Notebook instances within Studio when not in use. 
+
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
