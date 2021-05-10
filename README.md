@@ -22,6 +22,8 @@ Each record in the flight delay dataset contains information such as:
 ### Walkthrough
 For a full walkthrough of automating feature transformation with Amazon SageMaker, see this blog post. It explains more about how to use Amazon SageMaker Data Wrangler for feature transformation, Amazon SageMaker Feature Store for storing those features and Amazon SageMaker Pipelines for automating transformations of all future data.
 
+For a general overview on how to use Amazon SageMaker Data Wrangler, please refer to [developer documentation](https://docs.aws.amazon.com/sagemaker/latest/dg/data-wrangler-getting-started.html).
+
 To follow along, download the Jupyter notebook and python code from this repo. All the instructions are in the blog post and the Jupyter notebook. You can download the datasets from Amazon S3 through the below links
 - [Jan 01 - Mar 30, 2020](https://aws-ml-blog.s3.amazonaws.com/artifacts/automate-feature-engineering-pipelines-sagemaker/jan01_mar30_2020.csv)
 - [Mar 31, 2020](https://aws-ml-blog.s3.amazonaws.com/artifacts/automate-feature-engineering-pipelines-sagemaker/mar31_2020.csv)
