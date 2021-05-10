@@ -271,7 +271,7 @@ def _run_query(query_string, tmp_uri, database, verbose=True):
         return df
 
 def get_container(region):
-    "registries" = {
+    registries = {
           "af-south-1": "143210264188",
           "ap-east-1": "707077482487",
           "ap-northeast-1": "649008135260",
