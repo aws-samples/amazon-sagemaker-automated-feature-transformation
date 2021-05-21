@@ -20,7 +20,7 @@ Each record in the flight delay dataset contains information such as:
 - An [Amazon S3 Bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/create-bucket-overview.html)
 
 ### Walkthrough
-For a full walkthrough of automating feature transformation with Amazon SageMaker, see this blog post. It explains more about how to use Amazon SageMaker Data Wrangler for feature transformation, Amazon SageMaker Feature Store for storing those features and Amazon SageMaker Pipelines for automating transformations of all future data.
+For a full walkthrough of automating feature transformation with Amazon SageMaker, see this [blog post](https://aws.amazon.com/blogs/machine-learning/automate-feature-engineering-pipelines-with-amazon-sagemaker/). It explains more about how to use Amazon SageMaker Data Wrangler for feature transformation, Amazon SageMaker Feature Store for storing those features and Amazon SageMaker Pipelines for automating transformations of all future data.
 
 For a general overview on how to use Amazon SageMaker Data Wrangler, please refer to [developer documentation](https://docs.aws.amazon.com/sagemaker/latest/dg/data-wrangler-getting-started.html).
 
